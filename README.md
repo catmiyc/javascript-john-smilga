@@ -1,3 +1,3 @@
 # javascript-john-smilga
-## tutorial⚓
-## projects🚢
+## ⚓ tutorial
+## 🚢 projects
